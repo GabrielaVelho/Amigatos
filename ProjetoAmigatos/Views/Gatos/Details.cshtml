@@ -1,0 +1,68 @@
+﻿@model ProjetoAmigatos.Models.Gato
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<br /> <br /> <br /> <br />
+<img src="~/Images/amigatos.jpg" />
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Gato</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Raca.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Raca.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sexo.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sexo.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Idade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Idade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.User)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.User)
+        </dd>
+    </dl>
+</div>
+@if (Model.ImageUrl != null) {
+    <img width="200" src="@Model.ImageUrl" alt="@Model.Nome" />
+}
+
+<img width="200" src="@Url.Action("GetImage", "Gatos", new {id=Model.GatoID})">
+
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.GatoID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

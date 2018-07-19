@@ -1,0 +1,495 @@
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\roslyn\csc.exe
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\roslyn\vbc.exe
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\ProjetoAmigatos.dll.config
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\ProjetoAmigatos.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\ProjetoAmigatos.pdb
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Antlr3.Runtime.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\EntityFramework.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\EntityFramework.SqlServer.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Security.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Newtonsoft.Json.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Owin.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\System.Web.Helpers.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\System.Web.Mvc.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\System.Web.Optimization.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\System.Web.Razor.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\System.Web.WebPages.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\WebGrease.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\System.Web.Helpers.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\System.Web.Mvc.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\System.Web.Optimization.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\System.Web.Razor.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\System.Web.WebPages.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Antlr3.Runtime.pdb
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Newtonsoft.Json.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\EntityFramework.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\EntityFramework.SqlServer.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Security.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.csprojResolveAssemblyReference.cache
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.pdb
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.csprojResolveAssemblyReference.cache
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.pdb
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\csc.exe
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\vbc.exe
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\ProjetoAmigatos.dll.config
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\ProjetoAmigatos.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\ProjetoAmigatos.pdb
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Antlr3.Runtime.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\EntityFramework.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\EntityFramework.SqlServer.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Newtonsoft.Json.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Owin.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Helpers.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Mvc.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Optimization.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Razor.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.WebPages.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\WebGrease.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Helpers.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Mvc.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Optimization.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Razor.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.WebPages.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Antlr3.Runtime.pdb
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Newtonsoft.Json.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\EntityFramework.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\EntityFramework.SqlServer.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\csc.exe
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\vbc.exe
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\VBCSCompiler.exe
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\ProjetoAmigatos.dll.config
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\ProjetoAmigatos.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\ProjetoAmigatos.pdb
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Antlr3.Runtime.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\EntityFramework.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\EntityFramework.SqlServer.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Newtonsoft.Json.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Owin.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Helpers.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Mvc.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Optimization.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Razor.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.WebPages.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.WebPages.Razor.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\WebGrease.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Helpers.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Mvc.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Optimization.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.Razor.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.WebPages.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\System.Web.WebPages.Razor.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Antlr3.Runtime.pdb
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Newtonsoft.Json.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\EntityFramework.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\EntityFramework.SqlServer.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.csprojResolveAssemblyReference.cache
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2)\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.pdb
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\csc.exe
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\vbc.exe
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\ProjetoAmigatos.dll.config
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\ProjetoAmigatos.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\ProjetoAmigatos.pdb
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Antlr3.Runtime.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\EntityFramework.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\EntityFramework.SqlServer.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Newtonsoft.Json.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Owin.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Helpers.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Mvc.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Optimization.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Razor.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.WebPages.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\WebGrease.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Helpers.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Mvc.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Optimization.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Razor.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.WebPages.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Antlr3.Runtime.pdb
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Newtonsoft.Json.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\EntityFramework.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\EntityFramework.SqlServer.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.csprojResolveAssemblyReference.cache
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.pdb
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.Migrations.InitialCreate.resources
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.csproj.GenerateResource.Cache
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.Migrations.Profile.resources
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\csc.exe
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\vbc.exe
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\VBCSCompiler.exe
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\ProjetoAmigatos.dll.config
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\ProjetoAmigatos.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\ProjetoAmigatos.pdb
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Antlr3.Runtime.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\EntityFramework.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\EntityFramework.SqlServer.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Newtonsoft.Json.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Owin.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Helpers.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Mvc.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Optimization.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Razor.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.WebPages.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.WebPages.Razor.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\WebGrease.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Helpers.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Mvc.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Optimization.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.Razor.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.WebPages.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\System.Web.WebPages.Razor.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Antlr3.Runtime.pdb
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Newtonsoft.Json.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\EntityFramework.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\EntityFramework.SqlServer.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.csprojResolveAssemblyReference.cache
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.Migrations.InitialCreate.resources
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.Migrations.Profile.resources
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.csproj.GenerateResource.Cache
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos - Copy (2) - Copy\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.pdb
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\csc.exe
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\vbc.exe
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\VBCSCompiler.exe
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\ProjetoAmigatos.dll.config
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\ProjetoAmigatos.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\ProjetoAmigatos.pdb
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Antlr3.Runtime.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\EntityFramework.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\EntityFramework.SqlServer.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Newtonsoft.Json.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Owin.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Helpers.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Mvc.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Optimization.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Razor.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.WebPages.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.WebPages.Razor.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\WebGrease.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Helpers.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Mvc.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Optimization.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Razor.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.WebPages.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.WebPages.Razor.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Antlr3.Runtime.pdb
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Newtonsoft.Json.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\EntityFramework.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\EntityFramework.SqlServer.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.csprojResolveAssemblyReference.cache
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.Migrations.InitialCreate.resources
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.Migrations.Profile.resources
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.csproj.GenerateResource.Cache
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.dll
+C:\Users\sala411.PORTOALEGRE\Downloads\ProjetoAmigatos 1\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.pdb
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\csc.exe
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\vbc.exe
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\ProjetoAmigatos.dll.config
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\ProjetoAmigatos.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\ProjetoAmigatos.pdb
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Antlr3.Runtime.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\EntityFramework.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\EntityFramework.SqlServer.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Newtonsoft.Json.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Owin.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Helpers.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Mvc.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Optimization.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Razor.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.WebPages.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\WebGrease.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Helpers.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Mvc.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Optimization.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.Razor.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.WebPages.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Antlr3.Runtime.pdb
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Newtonsoft.Json.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\EntityFramework.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\EntityFramework.SqlServer.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.csprojResolveAssemblyReference.cache
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.Migrations.InitialCreate.resources
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.Migrations.Profile.resources
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.csproj.GenerateResource.Cache
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.dll
+C:\Users\Sailor Galaxy\Documents\S2B\ProjetoAmigatos 1\ProjetoAmigatos\obj\Debug\ProjetoAmigatos.pdb
